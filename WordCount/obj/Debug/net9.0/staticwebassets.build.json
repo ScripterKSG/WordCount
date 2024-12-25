@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mIUljomn2dDyYEtUJIkHTSeShAPGr+p0E65goJ7wHtY=",
+  "Source": "WordCount",
+  "BasePath": "_content/WordCount",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
